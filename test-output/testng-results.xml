@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="240" started-at="2023-01-03T11:07:19Z" finished-at="2023-01-03T11:07:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="240" started-at="2023-01-03T11:07:19Z" finished-at="2023-01-03T11:07:19Z">
+      <class name="org.sample.Test1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.sample.Test1@a67c67e]" name="test1" duration-ms="19" started-at="2023-01-03T11:07:19Z" finished-at="2023-01-03T11:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.sample.Test1@a67c67e]" name="test2" duration-ms="3" started-at="2023-01-03T11:07:19Z" finished-at="2023-01-03T11:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.sample.Test1@a67c67e]" name="test3" duration-ms="9" started-at="2023-01-03T11:07:19Z" finished-at="2023-01-03T11:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.sample.Test1@a67c67e]" name="test4" duration-ms="30" started-at="2023-01-03T11:07:19Z" finished-at="2023-01-03T11:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- org.sample.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
